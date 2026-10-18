@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="330" viewBox="0 0 400 330" role="img" aria-labelledby="title desc">
+  <title id="title">Faculty: distinct roles, shared course records</title>
+  <desc id="desc">Planning, practice, assessment and build review share saved course records. Research and exploration support the course. Roles are selected as needed; this is a role overview, not an automatic execution sequence.</desc>
+  <style>
+    .surface{fill:#f6f8fa}.ink{fill:#1f2328}.muted{fill:#59636e}.line{stroke:#8c959f}.accent{fill:#0969da}.record{fill:#ddf4ff;stroke:#54aeff}
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    @media(prefers-color-scheme:dark){.surface{fill:#161b22}.ink{fill:#f0f6fc}.muted{fill:#b1bac4}.line{stroke:#6e7681}.accent{fill:#79c0ff}.record{fill:#0c2d4a;stroke:#388bfd}}
+  </style>
+  <rect width="400" height="330" rx="12" class="surface"/>
+  <g class="ink" font-size="24" font-weight="600" text-anchor="middle">
+    <text x="100" y="47">Plan</text><text x="300" y="47">Practice</text>
+    <text x="100" y="139">Assess</text><text x="300" y="139">Review</text>
+  </g>
+  <g class="muted" font-size="18" text-anchor="middle">
+    <text x="100" y="73">Advisor</text><text x="300" y="73">Teacher</text>
+    <text x="100" y="165">Tutor</text><text x="300" y="165">Editor</text>
+  </g>
+  <path d="M167 50H200M233 50H200M200 50V214M167 142H200M233 142H200" class="line" fill="none" stroke-width="2"/>
+  <rect x="30" y="214" width="340" height="48" rx="6" class="record"/>
+  <text x="200" y="244" class="ink" font-size="22" font-weight="600" text-anchor="middle">Shared course records</text>
+  <g class="muted" font-size="16" text-anchor="middle">
+    <text x="200" y="291">Setup, research and exploration</text>
+    <text x="200" y="313">support the course.</text>
+  </g>
+</svg>
