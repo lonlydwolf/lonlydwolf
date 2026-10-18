@@ -96,7 +96,7 @@ A notebook exploring LoRA and 4-bit model adaptation for code generation. Publis
 
 ---
 
-## 🛠️ Tools I've worked with
+## 🛠 Tools I've worked with
 
 **Languages**
 
