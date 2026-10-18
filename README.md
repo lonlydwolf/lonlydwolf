@@ -10,36 +10,36 @@
 
 ---
 
-CS graduate who fell in love with programming in high school and took a long winding road back — through freight startups, automotive diagnostics, and everything in between. Today I build developer tools, open-source projects, and AI systems focused on two causes that are deeply personal to me: **education** and **diabetes care**.
+CS graduate who fell in love with programming in high school and took a long winding road back — through freight startups, automotive diagnostics, and everything in between. Education and diabetes care are causes that are deeply personal to me.
 
-**Currently** open to software engineering and AI/ML roles.
+My focus is **product-minded software engineering**: building useful tools while deepening my **backend and systems foundations**, with a long-term direction in **applied AI and intelligent applications**.
 
----
+**Open to software engineering roles, especially backend-focused work.**
 
-## 🛠️ Stack
+## Current work
 
-**AI / ML**
+### [Faculty](https://github.com/lonlydwolf/skills/tree/main/skills/faculty) · personal-use beta
 
-![PyTorch](https://www.shieldcn.dev/badge/-PyTorch-EE4C2C.svg?logo=pytorch&variant=branded&font=jetbrains-mono) ![Hugging Face](https://www.shieldcn.dev/badge/-Hugging_Face-FFD21E.svg?logo=huggingface&variant=branded&font=jetbrains-mono) ![LangChain](https://www.shieldcn.dev/badge/-LangChain-1C3C3C.svg?logo=langchain&variant=branded&font=jetbrains-mono) ![LangGraph](https://www.shieldcn.dev/badge/-LangGraph-1C3C3C.svg?logo=langchain&variant=branded&font=jetbrains-mono) ![FastMCP](https://www.shieldcn.dev/badge/-FastMCP-181717.svg?logo=python&variant=branded&font=jetbrains-mono)
+Seven AI skills I use for coursework, with separate roles for course planning, teaching, assessment, research, and build review. Course records preserve plans, assignments, and results across sessions.
 
-**Languages**
+Faculty grew out of my experiments with GeminiSensei: I shifted from building a standalone tutoring app toward designing the learning workflow I actually use. The repository documents its [workflow checks and limitations](https://github.com/lonlydwolf/skills/blob/main/skills/faculty/docs/CHECKS.md).
 
-![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&font=jetbrains-mono) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&font=jetbrains-mono) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&font=jetbrains-mono) ![Bash](https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&variant=branded&font=jetbrains-mono)
+## Selected learning projects
 
-**Tools & Infrastructure**
+These projects are complete and archived. Their code, checks, and retrospectives preserve what I built and learned.
 
-![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&font=jetbrains-mono) ![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&font=jetbrains-mono) ![GCP](https://www.shieldcn.dev/badge/-GCP-4285F4.svg?logo=googlecloud&variant=branded&font=jetbrains-mono) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&font=jetbrains-mono) ![Tauri](https://www.shieldcn.dev/badge/-Tauri-24C8D8.svg?logo=tauri&variant=branded&font=jetbrains-mono)
+- **[GeminiSensei](https://github.com/lonlydwolf/GeminiSensei)** — An AI tutoring desktop experiment spanning Tauri, React, and a Python/FastAPI sidecar. Connecting the frontend and backend, managing persistence, and evaluating the full learning workflow shaped my next approach. [Engineering case study](https://github.com/lonlydwolf/GeminiSensei/blob/main/docs/CASE_STUDY.md).
+- **[XOR from first principles](https://github.com/lonlydwolf/XOR-First-Principles-Network)** — Handwritten neural networks in Python, C++, and C#, with seeded demos and focused regression checks. A compact exercise in forward propagation, backpropagation, and numerical validation. [Technical retrospective](https://github.com/lonlydwolf/XOR-First-Principles-Network/blob/main/docs/RETROSPECTIVE.md).
+- **[dotfiles-maintainer](https://github.com/lonlydwolf/dotfiles-maintainer)** — A Python MCP and semantic-memory prototype for recording configuration decisions. It taught me to define tools around recurring needs and compare their maintenance cost with a simpler workflow. [Case study](https://github.com/lonlydwolf/dotfiles-maintainer/blob/main/docs/CASE_STUDY.md).
+- **[CodeT5+ fine-tuning experiment](https://github.com/lonlydwolf/CodeT5p-220m-Finetuned-For-Code-Generation)** — A notebook exploring LoRA and 4-bit model adaptation for code generation. Published artifacts, with methodology and reproducibility limits documented; no demonstrated improvement over the base model. [Technical retrospective](https://github.com/lonlydwolf/CodeT5p-220m-Finetuned-For-Code-Generation/blob/main/docs/TECHNICAL_RETROSPECTIVE.md).
 
----
+## Tools I've worked with
 
-## 🚀 Projects
+**Languages:** Python · C++ · C# · TypeScript · Bash
 
-| Project | Stack | What it is |
-|---|---|---|
-| [GeminiSensei](https://github.com/lonlydwolf/GeminiSensei) | Tauri · React · FastAPI | AI tutoring desktop app — Google DeepMind Hackathon |
-| [dotfiles-maintainer](https://github.com/lonlydwolf/dotfiles-maintainer) | FastMCP · mem0 · Qdrant | MCP server for semantic dotfiles management |
-| [CodeT5+ Fine-tuned](https://github.com/lonlydwolf/CodeT5p-220m-Finetuned-For-Code-Generation) | PyTorch · Transformers | CodeT5+ 220M fine-tuned for code generation |
-| [XOR Network](https://github.com/lonlydwolf/XOR-First-Principles-Network) | Python | Neural network built from scratch, no frameworks |
+**Applications and tooling:** FastAPI · React · Tauri · MCP · Git · GitHub Actions
+
+**AI experiments:** PyTorch · Hugging Face Transformers · LangGraph
 
 ---
 
